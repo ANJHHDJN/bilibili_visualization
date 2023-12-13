@@ -19,6 +19,6 @@ scrapy 2.5.0
 ![this is a project structure picture](bilibili\structure_pic.png "project structure")
 
 ## project diagram
-![word_cloud1](bilibili\word_cloud1.png "word_cloud1")
-![word_frequency](bilibili\word_frequency.png "word_frequency")
-![emotion_predict](bilibili\emotion_predict.png "emotion_predict")
+![word_cloud1](bilibili/word_cloud1.png "word_cloud1")
+![word_frequency](bilibili/word_frequency.png "word_frequency")
+![emotion_predict](bilibili/emotion_predict.png "emotion_predict")
