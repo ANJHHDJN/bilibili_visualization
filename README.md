@@ -16,7 +16,7 @@ pyecharts  1.7.1
 scrapy 2.5.0  
 
 ## project structure picture
-![this is a project structure picture](bilibili\structure_pic.png "project structure")
+![this is a project structure picture](bilibili/structure_pic.png "project structure")
 
 ## project diagram
 ![word_cloud1](bilibili/word_cloud1.png "word_cloud1")
